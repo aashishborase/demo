@@ -1,6 +1,6 @@
 # This program prints Hello, world!
 
-print('Hello, world!')
+print('Hello, qa!')
 
 
 file = open('Failed.py', 'w')
